@@ -31,7 +31,11 @@ friendDicStrings["newKey"] = "Master UNG"
 print("friendDicStrings ==> \(friendDicStrings)")
 
 friendDicStrings.removeValue(forKey: "key1")
+
 print("friendDicStrings ==> \(friendDicStrings)")
+
+
+
 
 
 
